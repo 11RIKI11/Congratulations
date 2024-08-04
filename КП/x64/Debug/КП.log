@@ -1,0 +1,12 @@
+﻿  iotable.cpp
+  itable.cpp
+  main.cpp
+C:\Users\Riki\Desktop\КП\КП\main.cpp(38,7): warning C4101: fileName: неиспользованная локальная переменная
+C:\Users\Riki\Desktop\КП\КП\main.cpp(39,8): warning C4101: file: неиспользованная локальная переменная
+  menu.cpp
+  otable.cpp
+  validation.cpp
+  Создание кода...
+C:\Users\Riki\Desktop\КП\КП\otable.cpp(181,1): warning C4715: viewPage: значение возвращается не при всех путях выполнения
+C:\Users\Riki\Desktop\КП\КП\itable.cpp(95,1): warning C4715: readOutBinFile: значение возвращается не при всех путях выполнения
+  КП.vcxproj -> C:\Users\Riki\Desktop\КП\x64\Debug\КП.exe

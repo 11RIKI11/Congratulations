@@ -1,0 +1,19 @@
+﻿  itable.cpp
+C:\Users\Riki\source\repos\КП\КП\itable.cpp(57,16): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  C:\Users\Riki\source\repos\КП\КП\itable.cpp(57,16):
+  рекомендуется использовать "%lf" в строке форматирования
+  
+C:\Users\Riki\source\repos\КП\КП\itable.cpp(63,16): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  C:\Users\Riki\source\repos\КП\КП\itable.cpp(63,16):
+  рекомендуется использовать "%lf" в строке форматирования
+  
+C:\Users\Riki\source\repos\КП\КП\itable.cpp(69,16): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double *"
+  C:\Users\Riki\source\repos\КП\КП\itable.cpp(69,16):
+  рекомендуется использовать "%lf" в строке форматирования
+  
+  Создание кода
+  2 of 19 functions (10.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  КП.vcxproj -> C:\Users\Riki\source\repos\КП\x64\Release\КП.exe
