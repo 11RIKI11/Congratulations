@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Поздравлятор\\Congs\\Congratulations\\Congratulations\\Congratulations.csproj": {}
+    "D:\\Поздравлятор\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Congratulations.csproj": {}
   },
   "projects": {
-    "D:\\Поздравлятор\\Congs\\Congratulations\\Congratulations\\Congratulations.csproj": {
+    "D:\\Поздравлятор\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Congratulations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Поздравлятор\\Congs\\Congratulations\\Congratulations\\Congratulations.csproj",
+        "projectUniqueName": "D:\\Поздравлятор\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Congratulations.csproj",
         "projectName": "Congratulations",
-        "projectPath": "D:\\Поздравлятор\\Congs\\Congratulations\\Congratulations\\Congratulations.csproj",
+        "projectPath": "D:\\Поздравлятор\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Congratulations.csproj",
         "packagesPath": "C:\\Users\\Riki\\.nuget\\packages\\",
-        "outputPath": "D:\\Поздравлятор\\Congs\\Congratulations\\Congratulations\\obj\\",
+        "outputPath": "D:\\Поздравлятор\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

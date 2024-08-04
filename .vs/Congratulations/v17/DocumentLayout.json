@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\",
+  "WorkspaceRootPath": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\dbcontext\\congratulationsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\dbcontext\\congratulationsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\dbcontext\\congratulationsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\entities\\birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\entities\\birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\entities\\birthday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\birthdayslogic\\birthdaysservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\birthdayslogic\\birthdaysservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\birthdayslogic\\birthdaysservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\birthdayslogic\\birthdaysmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\birthdayslogic\\birthdaysmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\birthdayslogic\\birthdaysmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\birthdayslogic\\birthdayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\birthdayslogic\\birthdayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\birthdayslogic\\birthdayextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratulations\\congratulations\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|d:\\\u043F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\congs\\congratoletionsprj\\congratulations\\congratulations\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86CA2D5B-BD0F-47E3-8CD3-CF85E6404033}|Congratulations\\Congratulations.csproj|solutionrelative:congratulations\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BirthdayExtension.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdayExtension.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdayExtension.cs",
               "RelativeDocumentMoniker": "Congratulations\\BirthdaysLogic\\BirthdayExtension.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdayExtension.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdayExtension.cs",
               "RelativeToolTip": "Congratulations\\BirthdaysLogic\\BirthdayExtension.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BirthdaysManager.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysManager.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysManager.cs",
               "RelativeDocumentMoniker": "Congratulations\\BirthdaysLogic\\BirthdaysManager.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysManager.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysManager.cs",
               "RelativeToolTip": "Congratulations\\BirthdaysLogic\\BirthdaysManager.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAEwFIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,35 +72,33 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BirthdaysService.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysService.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysService.cs",
               "RelativeDocumentMoniker": "Congratulations\\BirthdaysLogic\\BirthdaysService.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysService.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\BirthdaysLogic\\BirthdaysService.cs",
               "RelativeToolTip": "Congratulations\\BirthdaysLogic\\BirthdaysService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T08:51:29.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T08:51:29.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Program.cs",
               "RelativeDocumentMoniker": "Congratulations\\Program.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\Program.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Program.cs",
               "RelativeToolTip": "Congratulations\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAlwBsAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T00:37:26.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T00:37:26.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "InputManager.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\InputManager.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\InputManager.cs",
               "RelativeDocumentMoniker": "Congratulations\\InputManager.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\InputManager.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\InputManager.cs",
               "RelativeToolTip": "Congratulations\\InputManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Person.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\Entities\\Person.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Entities\\Person.cs",
               "RelativeDocumentMoniker": "Congratulations\\Entities\\Person.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\Entities\\Person.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Entities\\Person.cs",
               "RelativeToolTip": "Congratulations\\Entities\\Person.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -122,11 +120,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CongratulationsDbContext.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\DbContext\\CongratulationsDbContext.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\DbContext\\CongratulationsDbContext.cs",
               "RelativeDocumentMoniker": "Congratulations\\DbContext\\CongratulationsDbContext.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\DbContext\\CongratulationsDbContext.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\DbContext\\CongratulationsDbContext.cs",
               "RelativeToolTip": "Congratulations\\DbContext\\CongratulationsDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T18:58:26.72Z",
               "EditorCaption": ""
@@ -135,14 +133,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Birthday.cs",
-              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\Entities\\Birthday.cs",
+              "DocumentMoniker": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Entities\\Birthday.cs",
               "RelativeDocumentMoniker": "Congratulations\\Entities\\Birthday.cs",
-              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\Congratulations\\Congratulations\\Entities\\Birthday.cs",
+              "ToolTip": "D:\\\u041F\u043E\u0437\u0434\u0440\u0430\u0432\u043B\u044F\u0442\u043E\u0440\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Entities\\Birthday.cs",
               "RelativeToolTip": "Congratulations\\Entities\\Birthday.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:33:13.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T13:33:13.906Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jj8o3NbGP0s=",
+  "dgSpecHash": "04FBugYDmSU=",
   "success": true,
-  "projectFilePath": "D:\\Поздравлятор\\Congs\\Congratulations\\Congratulations\\Congratulations.csproj",
+  "projectFilePath": "D:\\Поздравлятор\\Congs\\CongratoletionsPrj\\Congratulations\\Congratulations\\Congratulations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Riki\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Riki\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
