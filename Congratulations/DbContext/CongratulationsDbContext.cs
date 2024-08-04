@@ -7,9 +7,10 @@ namespace Congratulations.DbContext
     {
         public DbSet<Birthday> birthdays => Set<Birthday>();
         public DbSet<Person> persons => Set<Person>();
+        public CongratulationsDbContext() => Database.EnsureCreated();
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=DESKTOP-V49EKC9\DMSSQLSERVER;Database=congratulationsdb;TrustServerCertificate=True;User Id=User;Password=user;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer(@"Server=(local);Database=congratulationsdb;TrustServerCertificate=True;User Id=User;Password=user;Trusted_Connection=True;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
